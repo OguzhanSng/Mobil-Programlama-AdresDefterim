@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeMavi" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryMavi</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkMavi</item>
+        <item name="colorAccent">@color/colorAccentMavi</item>
+    </style>
+
+    <style name="AppThemeGri" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryGri</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGri</item>
+        <item name="colorAccent">@color/colorAccentGri</item>
+    </style>
+
+    <style name="AppThemePink" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryPink</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPink</item>
+        <item name="colorAccent">@color/colorAccentPink</item>
+    </style>
+
+    <style name="AppThemeKahverengi" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryKahverengi</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkKahverengi</item>
+        <item name="colorAccent">@color/colorAccentKahverengi</item>
+    </style>
+
+    <style name="AppThemeYesil" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+    </style>
+
+</resources>

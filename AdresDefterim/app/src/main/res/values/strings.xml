@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AdresDefterim</string>
+
+    <string-array name="temalar">
+        <item>Turkuaz (Varsayılan)</item>
+        <item>Mavi</item>
+        <item>Yeşil</item>
+        <item>Pembe</item>
+        <item>Kahverengi</item>
+        <item>Mavimsi Gri</item>
+    </string-array>
+
+    <string-array name="tema_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
